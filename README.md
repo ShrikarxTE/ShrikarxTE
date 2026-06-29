@@ -4,46 +4,69 @@
 
 # 👋 Hello, I’m Shrikar Ramesh
 
-**CO-OP / Intern**
+**Machine Learning / Deep Learning Intern**
 
-T.E Connectivity India
+T.E Connectivity India · Bengaluru, Karnataka, India
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="Coding animation" width="720" />
-</div>
+Email: shrikar.ramesh@te.com · GitHub: [ShrikarRamesh](https://github.com/ShrikarRamesh) · LinkedIn: [shrikarramesh](https://linkedin.com/in/shrikarramesh)
 
 ---
 
 ## 📌 Summary
 
-I am currently working as a CO-OP/Intern at T.E Connectivity India, contributing to engineering and technology initiatives with a focus on practical implementation and continuous learning. I strive to support projects that improve operational efficiency, product reliability, and connectivity solutions.
+AI/ML researcher and Machine Learning intern with hands-on experience in deep learning, computer vision, neural networks, and interpretable forecasting. Currently building agentic systems and accelerated computing solutions with Python, PyTorch, TensorFlow, CUDA, and GPU programming.
 
-## 🎯 Professional Focus
+## 🎯 Experience
 
-- Engineering support for product development and connectivity systems
-- Automation and process improvement
-- Data-driven problem solving and technical analysis
-- Collaboration with cross-functional teams to deliver quality outcomes
+### Machine Learning Research Intern — Anveshana AI
+**Bengaluru, India • 2024 – Present**
+- Built a multi-model handwriting recognition pipeline integrating PaddleOCR, SmolDocling, and Qwen-VL; benchmarked results using CER, WER, and semantic similarity.
+- Designed spline regression methods (B-spline, natural cubic spline) for healthcare time-series forecasting, improving interpretability versus linear baselines.
+- Developed experimentation pipelines benchmarking ARIMA, Prophet, and spline-based additive models across RMSE, MAE, and MAPE on real-world datasets.
 
-## 🧰 Skills
+### Cognitive Manifold — Research Gap Identification System
+**Mar 2026 – Apr 2026**
+- Created a system that ingests research questions and maps academic literature into 3D semantic space using NMF, PCA, and LLM-derived ontologies.
+- Processed 277 papers through a seven-stage pipeline to identify structural gaps in research domains.
+- Implemented a self-contained HTML deployment with Python backend components and vanilla JS visualization.
 
-- Technical documentation and communication
-- Microsoft Office and productivity tools
-- Basic programming and scripting concepts
-- Engineering teamwork and project coordination
+### Near-Unstable Systems Boundary Analysis
+**Apr 2026 – May 2026**
+- Added a stability-verification layer for semantic outputs using Lyapunov-inspired margin estimation and spectral divergence metrics.
+- Classified high-dimensional output configurations as stable or near-critical transition regimes for safety-aware agentic assessment.
 
-## 💼 Experience
+## 🚀 Projects
 
-- CO-OP / Intern at T.E Connectivity India
-  - Supporting daily engineering tasks
-  - Assisting with documentation, testing, and process tracking
-  - Learning industry-standard practices and quality requirements
+### Spline-Based Additive Modeling for Interpretable Forecasting
+**Jul 2025 – Sep 2025**
+- Research paper under review at a Scopus-indexed journal, applying spline regression and numerical methods to nonlinear healthcare forecasting.
+- Demonstrated interpretable ML modeling by combining mathematical forecasting with clinical data insights.
 
-## ✉️ Contact
+### Multi-Model Handwriting Recognition Pipeline
+**May 2025 – Jul 2025**
+- Integrated PaddleOCR, SmolDocling, and Qwen-VL into a unified handwriting and document recognition benchmark.
+- Evaluated results using error rates and semantic similarity metrics for robust document intelligence.
 
-- GitHub: [@ShrikarxTE](https://github.com/ShrikarxTE)
-- Email: shrikar.ramesh@te.com
+### GPT for Research Validation
+**Mar 2025**
+- Developed an LLM-driven tool to validate citations and references in research papers.
+- Provided automated suggestions for relevant literature using neural retrieval and semantic validation.
 
----
+## 🧠 Technical Skills
 
-Thank you for visiting my profile.
+- Languages: Python, Java, JavaScript
+- ML/DL Frameworks: PyTorch, TensorFlow, JAX, Hugging Face, W&B
+- Deep Learning: Transformers, CNNs, RNNs, GNNs, Diffusion Models, backpropagation, optimization, regularization
+- Systems: CUDA, GPU programming, parallel programming, mixed precision training, performance tuning
+- Tools: NumPy, SciPy, scikit-learn, SerpAPI, Three.js, Anthropic API, PaddleOCR
+- Architecture: modular ML pipelines, software design patterns, agentic development, end-to-end experimentation
+
+## 🎓 Education
+
+B.E. Computer Science (AI & ML) — RNS Institute of Technology
+
+## 🌱 Activities & Interests
+
+- Former Lead, AI/ML Technical Club — Amura
+- National-level Indian bow archer; represented state and university
+- Interested in grounded, high-impact AI problems and interpretable agentic systems
