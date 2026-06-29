@@ -10,6 +10,10 @@ T.E Connectivity India · Bengaluru, Karnataka, India
 
 Email: shrikar.ramesh@te.com · GitHub: [ShrikarRamesh](https://github.com/ShrikarRamesh) · LinkedIn: [shrikarramesh](https://linkedin.com/in/shrikarramesh)
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="Coding animation" width="720" />
+</div>
+
 ---
 
 ## 📌 Summary
