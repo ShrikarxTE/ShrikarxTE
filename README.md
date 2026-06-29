@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static4.arrow.com/-/media/arrow/images/manufacturers/t/te-connectivity-logo-approved.jpg" alt="T.E Connectivity logo" width="720" />
+  <img src="./OIP.webp" alt="T.E Connectivity logo" width="720" />
 </div>
 
 # 👋 Hello, I’m Shrikar Ramesh
